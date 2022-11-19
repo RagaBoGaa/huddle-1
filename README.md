@@ -22,7 +22,7 @@ Built with Flexbox (Mainly)
 
 ### Links
 
-- Solution URL: [@frontend mentor](https://www.frontendmentor.io/solutions/news-homepage-pure-html-and-css-j3nFukBuV4)
+- Solution URL: [@frontend mentor](https://www.frontendmentor.io/solutions/responsive-all-screens-huddle-landing-page-with-curved-sections-nZSbJE1AgA)
 - Live Site URL: [@github pages](https://ragabogaa.github.io/news-homepage/)
 
 ### Built with
